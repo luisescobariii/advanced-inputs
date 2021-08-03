@@ -1,0 +1,11 @@
+@import './custom-checkbox/custom-checkbox.css';
+
+.adv.hidden-input {
+    position: absolute;
+    height: 0;
+    width: 0;
+    pointer-events: none;
+    opacity: 0;
+    margin: 0;
+    padding: 0;
+}
